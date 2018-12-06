@@ -1,0 +1,44 @@
+/*
+Created by: Joey Gronseth
+Date created: Dec 4, 2018
+Date of last revision:
+*/
+
+header, footer {
+	text-align: center;
+}
+
+body {
+	font-family: arial, helvetica, sans-serif;
+	color: #0d1f2d;
+	margin: 0 auto
+}
+h1 {
+	font-family: "Times New Roman", Times, serif;
+}
+nav {
+	border-top: 3px solid #546a7b;
+	border-bottom: 3px solid #546a7b;
+	margin-top: 4px;
+	padding-top: 12px;
+	padding-bottom: 1px;
+}
+nav a {
+	color: #061e3d;
+	text-align: center;
+	margin: 20px;
+	width: 100px;
+	text-decoration: underline;
+}
+
+nav a:visited {
+	color: #87cefa;
+}
+
+nav a:hover {
+	font-weight: bold;
+}
+nav a:active {
+	text-decoration: none;
+}
+
